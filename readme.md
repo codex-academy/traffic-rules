@@ -4,7 +4,7 @@ Did you know that your computer reads key codes every time you press a key? That
 
 > Fork and clone this repository.
 
-Open the the `index.html` file. What do you see. Try pressing the `right`, `left`, `up` and `down` arrow keys. What happens?
+Open the `index.html` file. What do you see. Try pressing the `right`, `left`, `up` and `down` arrow keys. What happens?
 
 In the `app.js` file we have already attached an event handler that captures the key code. And will display it on the screen.
 
